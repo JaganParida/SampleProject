@@ -1,1 +1,1 @@
-#Collaborating-Project
+#CollaboratingProject
